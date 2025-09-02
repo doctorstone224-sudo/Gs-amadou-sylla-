@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Rentrée Scolaire 2024-2025",
+    "date": "2024-09-01",
+    "image": "assets/lygot2hd7sei.jpg",
+    "summary": "C'est la rentrée ! Nous sommes ravis d'accueillir nos élèves, anciens et nouveaux, pour une année riche en apprentissages et en découvertes. L'équipe pédagogique est prête à accompagner chaque enfant vers la réussite.",
+    "content": "La rentrée scolaire 2024-2025 a eu lieu ce lundi dans une ambiance joyeuse et studieuse. Les élèves ont retrouvé leurs camarades et découvert leurs nouveaux enseignants. Cette année, nous mettons l'accent sur l'innovation pédagogique avec de nouveaux ateliers numériques et un programme d'échange linguistique renforcé. Nous souhaitons à tous une excellente année scolaire !"
+  },
+  {
+    "id": 2,
+    "title": "Journée Portes Ouvertes",
+    "date": "2024-08-15",
+    "image": "assets/u1h8nnfyn7wq.jpg",
+    "summary": "Le Groupe Scolaire Amadou Sylla a organisé sa journée portes ouvertes le 15 août. Un grand succès qui a permis à de nombreuses familles de découvrir notre établissement, nos programmes et nos valeurs.",
+    "content": "Parents et futurs élèves sont venus nombreux pour notre journée portes ouvertes. Au programme : visite des locaux, rencontre avec les enseignants, présentation des deux cursus (français et guinéen) et ateliers découvertes. L'enthousiasme était palpable et nous avons déjà reçu de nombreuses demandes d'inscription. Merci à tous les participants et à notre équipe pour leur mobilisation."
+  },
+  {
+    "id": 3,
+    "title": "Succès au Baccalauréat",
+    "date": "2024-07-20",
+    "image": "assets/award.svg",
+    "summary": "Félicitations à nos bacheliers ! Le Groupe Scolaire Amadou Sylla est fier d'annoncer un taux de réussite de 98% au baccalauréat pour la session 2024, toutes séries confondues.",
+    "content": "Nos élèves ont brillé aux examens du baccalauréat français et guinéen. Ces excellents résultats sont le fruit de leur travail assidu et de l'accompagnement de qualité de nos professeurs. Plusieurs de nos lauréats ont obtenu des mentions Très Bien et Bien, et s'orientent vers des études supérieures prestigieuses en Afrique et en Europe. Bravo à eux !"
+  }
+]
